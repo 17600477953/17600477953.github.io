@@ -47,11 +47,14 @@ section{
 	background: #409EFF;
 }
 footer{
-	background: #E6A23C;
+	background: #67C23A;
+	line-height: 30px;
+	color: #ffffff;
 }
 article{
-	margin: 20px;
+	margin-top: 20px;
 	width: 100%;
+	box-sizing: border-box;
 	text-indent: 100px;
 	background: #67C23A;
 	color: #fff;
